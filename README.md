@@ -1,13 +1,13 @@
 # Boardroom 💖💸
 
 
-Welcome to the **Boardroom** – the ultimate spot for brainsorming, bringing ideas to life, and increasing shareholder value. 
+Welcome to the **Boardroom** – the ultimate spot for bringing creative ideas to life and increasing shareholder value. 
 
 ### What's Boardroom? 🤔
 
 Boardroom is a collaborative platform where we can:
 
-- **Brainstorm & riff** 
+- **Riff** 
 - **Create** 
 - **Increase shareholder value** 
 
